@@ -1,8 +1,8 @@
 * {
-    /* padding: 0; */
-    /* margin: 0; */
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
-    font-family:cursive;
+    font-family: cursive;
 }
 
 body {
@@ -11,8 +11,10 @@ body {
 
 h3 {
     color: aqua;
+    padding: 5px;
 }
 
 p {
     color: white;
+    padding: 5px;
 }
