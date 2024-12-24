@@ -32,7 +32,7 @@ p {
 }
 span{
     display: block;
-    padding-left: 20px;
+    padding-left: 30px;
     color: rgb(160, 222, 137);
 }
 @media (max-width: 600px) {
