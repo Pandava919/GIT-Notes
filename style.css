@@ -30,7 +30,11 @@ p {
     word-wrap: break-word;
     overflow-wrap: break-word;
 }
-
+span{
+    display: block;
+    padding-left: 20px;
+    color: rgb(160, 222, 137);
+}
 @media (max-width: 600px) {
     body {
         font-size: 14px;
